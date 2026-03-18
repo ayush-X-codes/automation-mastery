@@ -1,0 +1,182 @@
+[
+  {
+    "titles": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+    "links": "https://claude.com/blog/1m-context-ga",
+    "points": "635 points",
+    "authors": "meetpateltech"
+  },
+  {
+    "titles": "A Survival Guide to a PhD (2016)",
+    "links": "http://karpathy.github.io/2016/09/07/phd/",
+    "points": "68 points",
+    "authors": "vismit2000"
+  },
+  {
+    "titles": "Emacs and Vim in the Age of AI",
+    "links": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+    "points": "114 points",
+    "authors": "psibi"
+  },
+  {
+    "titles": "You gotta think outside the hypercube",
+    "links": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
+    "points": "35 points",
+    "authors": "surprisetalk"
+  },
+  {
+    "titles": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+    "links": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+    "points": "546 points",
+    "authors": "johnbarron"
+  },
+  {
+    "titles": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+    "links": "https://channelsurfer.tv",
+    "points": "486 points",
+    "authors": "kilroy123"
+  },
+  {
+    "titles": "I found 39 Algolia admin keys exposed across open source documentation sites",
+    "links": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+    "points": "120 points",
+    "authors": "kernelrocks"
+  },
+  {
+    "titles": "Mouser: An open source alternative to Logi-Plus mouse software",
+    "links": "https://github.com/TomBadash/MouseControl",
+    "points": "289 points",
+    "authors": "avionics-guy"
+  },
+  {
+    "titles": "Hammerspoon",
+    "links": "https://github.com/Hammerspoon/hammerspoon",
+    "points": "277 points",
+    "authors": "tosh"
+  },
+  {
+    "titles": "Atari 2600 BASIC Programming (2015)",
+    "links": "https://huguesjohnson.com/programming/atari-2600-basic/",
+    "points": "21 points",
+    "authors": "mondobe"
+  },
+  {
+    "titles": "Can I run AI locally?",
+    "links": "https://www.canirun.ai/",
+    "points": "1188 points",
+    "authors": "ricardbejarano"
+  },
+  {
+    "titles": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
+    "links": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
+    "points": "258 points",
+    "authors": "tosh"
+  },
+  {
+    "titles": "Wired headphone sales are exploding",
+    "links": "https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth",
+    "points": "95 points",
+    "authors": "billybuckwheat"
+  },
+  {
+    "titles": "Optimizing Content for Agents",
+    "links": "https://cra.mr/optimizing-content-for-agents/",
+    "points": "37 points",
+    "authors": "vinhnx"
+  },
+  {
+    "titles": "Games with loot boxes to get minimum 16 age rating across Europe",
+    "links": "https://www.bbc.com/news/articles/cge84xqjg5lo",
+    "points": "167 points",
+    "authors": "gostsamo"
+  },
+  {
+    "titles": "Our Experience with I-Ready",
+    "links": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
+    "points": "63 points",
+    "authors": "barry-cotter"
+  },
+  {
+    "titles": "Digg is gone again",
+    "links": "https://digg.com/",
+    "points": "163 points",
+    "authors": "hammerbrostime"
+  },
+  {
+    "titles": "Recursive Problems Benefit from Recursive Solutions",
+    "links": "https://jnkr.tech/blog/recursive-benefits-recursive",
+    "points": "5 points",
+    "authors": "luispa"
+  },
+  {
+    "titles": "AEP (API Design Standard and Tooling Ecosystem)",
+    "links": "https://aep.dev/",
+    "points": "6 points",
+    "authors": "rambleraptor"
+  },
+  {
+    "titles": "I beg you to follow Crocker's Rules, even if you will be rude to me",
+    "links": "https://lr0.org/blog/p/crocker/",
+    "points": "61 points",
+    "authors": "ghd_"
+  },
+  {
+    "titles": "Elon Musk pushes out more xAI founders as AI coding effort falters",
+    "links": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
+    "points": "414 points",
+    "authors": "merksittich"
+  },
+  {
+    "titles": "New 'negative light' technology hides data transfers in plain sight",
+    "links": "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight",
+    "points": "83 points",
+    "authors": "wjSgoWPm5bWAhXB"
+  },
+  {
+    "titles": "Coding after coders: The end of computer programming as we know it?",
+    "links": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share",
+    "points": "113 points",
+    "authors": "angst"
+  },
+  {
+    "titles": "Using Thunderbird for RSS",
+    "links": "https://rubenerd.com/using-thunderbird-for-rss/",
+    "points": "93 points",
+    "authors": "ingve"
+  },
+  {
+    "titles": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
+    "links": "https://www.getspine.ai/",
+    "points": "93 points",
+    "authors": "a24venka"
+  },
+  {
+    "titles": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
+    "links": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
+    "points": "73 points",
+    "authors": "eatonphil"
+  },
+  {
+    "titles": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
+    "links": "https://github.com/Compresr-ai/Context-Gateway",
+    "points": "74 points",
+    "authors": "ivzak"
+  },
+  {
+    "titles": "The Wyden Siren Goes Off Again: We’ll Be “Stunned” By What the NSA Is Doing",
+    "links": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
+    "points": "459 points",
+    "authors": "cf100clunk"
+  },
+  {
+    "titles": "Your phone is an entire computer",
+    "links": "https://medhir.com/blog/your-phone-is-an-entire-computer",
+    "points": "311 points",
+    "authors": "medhir"
+  },
+  {
+    "titles": "John Carmack about open source and anti-AI activists",
+    "links": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
+    "points": "310 points",
+    "authors": "tzury"
+  }
+]

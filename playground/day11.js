@@ -1,12 +1,14 @@
 const { chromium } = require("playwright");
+const TelegramBot = require("node-telegram-bot-api");
 const fs = require("fs");
 
 const target_price = 50;
 const file = "prices.json";
-let errors = 0;
+const token = process.env.TELEGRAM_TOKEN;
+const start = performance.now();
+let errorCount = 0;
 
-async function runScraper() {
-  let start = performance.now();
+(async () => {
   try {
     const browser = await chromium.launch({ headless: false });
     const page = await browser.newPage();
@@ -47,27 +49,14 @@ async function runScraper() {
       console.log(`✅ Price is ${price} - not yet at target`);
     }
 
-    let end = performance.now();
+    const item = data.lenght();
 
-     await browser.close();
+    await browser.close();
 
-    return {
-      itemsScraped: 1,
-      errors,
-      timeTaken: end - start,
-      price,
-    };
-
-   
-  } catch (err) {
-    console.error("action failed: ", err);
-    errors++
-    return {
-      itemsScraped: 0,
-      errors,
-      timeTaken: end - start,
-    };
+    const end = performance.now()
+    const totalTime = end - start
+  } catch (error) {
+    console.error("action failed: ", error);
+    errorCount += 1;
   }
-}
-
-module.exports = runScraper;
+})();
